@@ -1,0 +1,27 @@
+🎓 Weekly Academic Citation & Impact Digest (2026-11-06)
+Recipient: workwithavip@gmail.com
+Generated: November 06, 2026 (11:43 UTC)
+Researcher: Avi Perera (ORCID: 0009-0005-1903-6868 | https://aviperera.com)
+
+=== CORE TRACKED PUBLICATIONS ===
+• Weapons That Think Must Not Decide: Autonomous Systems, Human Dignity, and the Limits of Delegated Lethality (2024) -> https://aviperera.com/meaningful-human-control-autonomous-weapons/
+• Algorithmic Reshaping of Radicalisation Pathways: Cognitive Infrastructure and Epistemic Vulnerability (2024) -> https://aviperera.com/algorithmic-reshaping-radicalisation/
+• Abliteration.ai: Removing Safety Guardrails and the Proliferation of Unrestricted Foundation Models (2024) -> https://aviperera.com/abliteration-ai-removing-guardrails-international-security/
+• Operationalising Meaningful Human Control: Quantitative Benchmarks for Article 36 Weapon Reviews (2024) -> https://aviperera.com/meaningful-human-control-autonomous-weapons/
+
+=== OPENALEX CITATION SNAPSHOT ===
+Tracked OpenAlex indexed works: 2
+- THE INTERSECTION OF ART AND TECHNOLOGY: AI IN ANIMATION | Cited by: 0
+- Equitable Progress and the Regulation of AI | Cited by: 0
+
+=== RELEVANT NEW PREPRINTS (MHC & LAWS) ===
+- Designing AI-Enabled Countermeasures to Cognitive Warfare (2025-04-14): http://arxiv.org/abs/2504.11486v1
+- Meaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons systems (2023-03-13): http://arxiv.org/abs/2303.06813v3
+- The Responsibility Quantification (ResQu) Model of Human Interaction with Automation (2018-10-30): http://arxiv.org/abs/1810.12644v4
+
+=== CANONICAL SEO & CITATION HEALTH ===
+• DOI 10.13140/RG.2.2.10288.67842 linked to https://aviperera.com
+• Wikidata Entity Q140248356 verified
+• CITATIONS.md regenerated with BibTeX exports
+
+Delivered autonomously by Academic Citation Sentinel.
